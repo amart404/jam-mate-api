@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  instrument: MyString
+  genre: MyString
+  experience: 1
+
+two:
+  instrument: MyString
+  genre: MyString
+  experience: 1
